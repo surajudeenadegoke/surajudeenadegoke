@@ -22,7 +22,7 @@ I am a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplc
 
 - 💼 Worked as a Associate Software Engineer at [Decagon](https://decagonhq.com/) and contributed to various projects.
 
-- What do you need my [CV](https://docs.google.com/document/d/1M5ST89QjVWAys9-Bs5jc1N90vVb90vQI/edit) for ?
+- What do you need my [CV](https://docs.google.com/document/d/1M5ST89QjVWAys9-Bs5jc1N90vVb90vQI//export?format=pdf) for ?
 
 ---
 
