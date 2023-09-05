@@ -46,8 +46,8 @@ I am a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplc
 - Freelance Software Developer and Technical Writer _(Sept 2023 - till date )
 - [Zuri Health](https://zuri.health/) Start-up _(Nov 2022 - August 2023 · 9 mos)_
 - Decagon (https://decagonhq.com/) _(March 2021 - Nov 2022 · 1 yr 9 mos)_
-- Kurama Tech Media _(July 2020 - Feb 2021 · 8 mos)_
-- Freelance Software Developer _(Mar 2020 - Mar 2023 · 1 yr 1 mos)
+- Kurama Tech Media _(June 2020 - Feb 2021 · 9 mos)_
+- Freelance Software Developer _(Jan 2020 - May 2020 · 5 mos)
 
 ---
 
