@@ -21,10 +21,12 @@ I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/med
 - 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
 - 💼 Worked as a Associate Software Engineer at [Decagon](https://decagonhq.com/) and contributed to various projects.
+  
+- 💼 Worked as a Junior Software Engineer at [Kurama(https://kurama.com/) and contributed to various projects.
 
 - What do you need my [CV](https://docs.google.com/document/d/1M5ST89QjVWAys9-Bs5jc1N90vVb90vQI//export?format=pdf) for ?
 
----
+----
 
 ### :hammer_and_wrench: Languages and Tools :
 
