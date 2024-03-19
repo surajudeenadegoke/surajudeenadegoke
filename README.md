@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 3 years experience.
+I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 5 years industry standard experience.
 
 - 💼 I’m currently working as a Freelance Frontend Developer and Technical Writer.
 
@@ -24,7 +24,7 @@ I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/med
   
 - 💼 Worked as a Junior Software Engineer at [Kurama(https://kurama.com/) and contributed to various projects.
 
-- What do you need my [CV](https://docs.google.com/document/d/1M5ST89QjVWAys9-Bs5jc1N90vVb90vQI//export?format=pdf) for ?
+- What do you need my [CV](https://docs.google.com/document/d/1cVyFKGL_NOcvmQDk5rtYEfCPiNkGKZTJZIYlt-Qx_hY/edit) for ?
 
 ----
 
