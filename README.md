@@ -10,7 +10,8 @@
   </div>
 </div>
 
-# Hi, I'm Suraj Adegoke 👋
+# Hi, I'm Surajudeen Adegoke 👋
+# Nice to meet you
 
 ### 👨‍💻 About Me :
 
