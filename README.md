@@ -15,13 +15,13 @@
 
 ### 👨‍💻 About Me :
 
-I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 5 years industry standard experience.
+I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 5 years industry standard experience.
 
-- 💼 I’m currently working as a Freelance Frontend Developer and Technical Writer.
+- 💼 I’m currently working as a Freelance Software Developer and Technical Writer.
 
 - 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
-- 💼 Worked as a Associate Software Engineer at [Decagon](https://decagonhq.com/) and contributed to various projects.
+- 💼 Worked as a  Software Engineer at [AeroTech Innovations](https://aerotech.com/) and contributed to various projects.
   
 - 💼 Worked as a Junior Software Engineer at [Kurama(https://kurama.com/) and contributed to various projects.
 
@@ -48,7 +48,7 @@ I am a seasoned Frontend Software Engineer <img src="https://media.giphy.com/med
 ### 👨‍💻 Currently working/worked at:
 - Freelance Software Developer  _(Feb 2024 - till date )
 - [Zuri Health](https://zuri.health/) Start-up _(Nov 2022 - Jan 2024 · 1 yr 2 mons)
-- Decagon (https://decagonhq.com/) _(March 2021 - Nov 2022 · 1 yr 9 mons)
+- AeroTech Innovations _(March 2021 - Nov 2022 · 1 yr 9 mons)
 - Kurama Tech Media _(Jan 2019 - Feb 2021 · 2 yrs 2 mons)
 
 
