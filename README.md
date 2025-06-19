@@ -22,15 +22,15 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 - 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
 - 💼 Worked as a  Software Engineer at [Decagon, EdoTech-Park](https://decagon.institute/) and contributed to various projects.
-- 
-- - 💼 Worked as a  Distribution Substation Operator at [V](https://decagon.institute/)
+  
+- 💼 Worked as a  Distribution Substation Operator at [V](https://decagon.institute/)
   
 
 - What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
 
 ----
 
-### :hammer_and_wrench: Languages and Tools :
+- 🛠 Languages and Tools :
 
 ✓ JavaScript       
 ✓ HTML
@@ -57,11 +57,11 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-### 👨‍💻 Currently working/worked at:
-- Freelance Software Developer  _( March 2023 - till date )
-- Zuri Health - Kenya  _( Nov 2022 - Jan 2023 · 3 mons)
-- Decagon Edo-Tech Park _( April 2022 - Nov 2022 · 8 mons )
-- Benin Electricity Distribution Company _( Nov 2008 - March 2022 · 16 yrs )
+- 👨‍💻 Currently working/worked at:
+- Freelance Software Developer  -  ( March 2023 - till date )
+- Zuri Health - Kenya  - ( Nov 2022 - Jan 2023 · 3 mons)
+- Decagon Edo-Tech Park  - ( April 2022 - Nov 2022 · 8 mons )
+- Benin Electricity Distribution Company  - ( Nov 2008 - March 2022 · 16 yrs )
 
 
 ---
@@ -69,6 +69,10 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 _Social Information_
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/surajudeenadegoke/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/surajudeen-adegoke-3a224aa0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://web.facebook.com/profile.php?id=100004866885625) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/surajudeenadegoke/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/adeg4_a)
+
+- 📫 How to reach me:
+📞 08065285162
+  
 
 <!--
 *Bennyyoung/Bennyyoung* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
