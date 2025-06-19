@@ -23,7 +23,7 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 💼  Worked as a  Software Engineer at [Decagon, EdoTech-Park](https://decagon.institute/) and contributed to various projects.
   
- 💼  Worked as a  Distribution Substation Operator at [V](https://decagon.institute/)
+💼  Worked as a  Distribution Substation Operator at (https://beninelectric.com/)
   
 
 - What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
@@ -33,9 +33,6 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 - 🛠 Languages and Tools :
 
 ✓ JavaScript  ✓ HTML  ✓ CSS  ✓ SQL  ✓ Nodejs  ✓ React  ✓ GitHub  ✓ Jira
-
-
-
 
 
 
@@ -57,7 +54,7 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-- 👨‍💻 Currently working/worked at:
+👨‍💻 Currently working/worked at:
 - Freelance Software Developer  -  ( March 2023 - till date )
 - Zuri Health - Kenya  - ( Nov 2022 - Jan 2023 · 3 mons)
 - Decagon Edo-Tech Park  - ( April 2022 - Nov 2022 · 8 mons )
