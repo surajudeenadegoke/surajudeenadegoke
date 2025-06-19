@@ -15,17 +15,17 @@
 
 ### 👨‍💻 About Me :
 
-I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 5 years industry standard experience.
+I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 3 years industry standard experience.
 
 - 💼 I’m currently working as a Freelance Software Developer and Technical Writer.
 
 - 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
-- 💼 Worked as a  Software Engineer at [AeroTech Innovations](https://aerotech.com/) and contributed to various projects.
+- 💼 Worked as a  Software Engineer at [Decagon, EdoTech-Park](https://decagon.institute/) and contributed to various projects.
   
 - 💼 Worked as a Junior Software Engineer at [Kurama(https://kurama.com/) and contributed to various projects.
 
-- What do you need my [CV](https://docs.google.com/document/d/1cVyFKGL_NOcvmQDk5rtYEfCPiNkGKZTJZIYlt-Qx_hY/edit) for ?
+- What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
 
 ----
 
@@ -46,10 +46,10 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### 👨‍💻 Currently working/worked at:
-- Freelance Software Developer  _(Feb 2024 - till date )
-- [Zuri Health](https://zuri.health/) Start-up _(Nov 2022 - Jan 2024 · 1 yr 2 mons)
-- AeroTech Innovations _(March 2021 - Nov 2022 · 1 yr 9 mons)
-- Kurama Tech Media _(Jan 2019 - Feb 2021 · 2 yrs 2 mons)
+- Freelance Software Developer  _( March 2023 - till date )
+- Zuri Health - Kenya  _( Nov 2022 - Jan 2023 · 3 mons)
+- Decagon Edo-Tech Park _( April 2022 - Nov 2022 · 8 mons )
+- Benin Electricity Distribution Company _( Nov 2008 - March 2022 · 16 yrs )
 
 
 ---
