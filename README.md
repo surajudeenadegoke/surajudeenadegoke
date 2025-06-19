@@ -22,14 +22,26 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 - 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
 - 💼 Worked as a  Software Engineer at [Decagon, EdoTech-Park](https://decagon.institute/) and contributed to various projects.
+- 
+- - 💼 Worked as a  Distribution Substation Operator at [V](https://decagon.institute/)
   
-- 💼 Worked as a Junior Software Engineer at [Kurama(https://kurama.com/) and contributed to various projects.
 
 - What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
 
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
+
+✓ JavaScript       
+✓ HTML
+✓ CSS
+✓ SQL
+✓ Nodejs
+✓ React
+✓ GitHub
+✓ Jira
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
