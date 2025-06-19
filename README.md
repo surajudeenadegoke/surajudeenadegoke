@@ -54,7 +54,10 @@ I am a seasoned  Software Engineer <img src="https://media.giphy.com/media/WUlpl
 
 
 ---
+- 📫 How to reach me:
+📞  08065285162
 
+---
 _Social Information_
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/surajudeenadegoke/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/surajudeen-adegoke-3a224aa0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://web.facebook.com/profile.php?id=100004866885625) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/surajudeenadegoke/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/adeg4_a)
@@ -62,8 +65,7 @@ _Social Information_
 
 
 
-- 📫 How to reach me:
-📞  08065285162
+
   
 
 <!--
