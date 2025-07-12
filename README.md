@@ -28,7 +28,7 @@ I am a software engineer and technology enthusiast <img src="https://media.giphy
 💼  Worked as a Dispatch Officerr at (https://beninelectric.com/)
   
 
-- What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
+- What do you need my [CV](https://docs.google.com/document/d/1NK2828c2c9jU8lauIVZdkN0X7DB8L3Od/edit) for ?
 
 ----
 
