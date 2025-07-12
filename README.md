@@ -22,8 +22,10 @@ I am a software engineer and technology enthusiast <img src="https://media.giphy
 💼  Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard.
 
 💼  Worked as a Software Engineer at [Decagon, EdoTech-Park](https://decagon.institute/) and contributed to various projects.
+
+💼  Worked as a Junior Software Developer at (https://Kurama.com/)
   
-💼  Worked as a Distribution Substation Operator at (https://beninelectric.com/)
+💼  Worked as a Dispatch Officerr at (https://beninelectric.com/)
   
 
 - What do you need my [CV](https://docs.google.com/document/d/15DkOC5kN6g39i6BXJfYCH3om6NXGNrOslyjyp9oDoW4/edit?tab=t.0) for ?
@@ -47,10 +49,11 @@ I am a software engineer and technology enthusiast <img src="https://media.giphy
 ---
 
 👨‍💻 Currently working/worked at:
-- Freelance Software Developer  -  ( March 2023 - till date )
-- Zuri Health - Kenya  - ( Nov 2022 - Aug 2023 )
+- Freelance Software Developer  -  ( March 2024 - till date )
+- Zuri Health - Kenya  - ( Nov 2022 - Jan 2024 )
 - Decagon Edo-Tech Park  - ( March 2021 - Nov 2022  )
-- Benin Electricity Distribution Company  - ( Sept 2008 - Feb 2022 )
+- Kurama Media Tech - ( Jan 2020 - Feb 2021 )
+- Benin Electricity Distribution Company  - ( Sept 2016 - Dec 2019 )
 
 
 ---
