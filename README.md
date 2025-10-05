@@ -29,6 +29,8 @@ I am a software engineer and technology enthusiast <img src="https://media.giphy
   
 
 - What do you need my [CV](https://docs.google.com/document/d/1NK2828c2c9jU8lauIVZdkN0X7DB8L3Od/edit) for ?
+- view my M.Sc certificates(https://drive.google.com/file/d/14CGdaq9hz7j95dowCRpr4kkLQbK2CloK/view?usp=drive_link)
+- view my B.Sc certificate(https://drive.google.com/file/d/1XjnGJpWC-1_U9eBqeJ7ifUJDVNL6-kTQ/view?usp=drive_link)
 
 ----
 
